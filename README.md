@@ -5,7 +5,8 @@
   <ul>
     <li>Estrutura HTML</li>
     <li>Estilização com CSS</li>
-    <li>Pseudo Elemento</li>
+    <li>Pseudo Elementos</li>
+    <li>Pseudo Classes</li>
     <li>Responsividade</li>
   </ul>
 </p>
